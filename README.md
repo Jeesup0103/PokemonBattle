@@ -1,4 +1,4 @@
 # PokemonBattle
 
-Start game on PokeGame
+Start game on PokeGame\n
 Pokemon Battle that uses GUI and Multithreading
